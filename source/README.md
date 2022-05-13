@@ -115,21 +115,3 @@ localhost:3000
 ```
 ## Read our extended documentation [here](https://docs.google.com/presentation/d/1X_5cFYmizqu-8cp4DHltDiI17BK6T65KlEPaCuGE_Vc/edit?usp=sharingg)
 
-## Contributors
-
-<div align="center">
-  
-![developers](https://github.com/Unicorn-Dev-Community/unicornteach/blob/main/Assets/UDEV.png)
-
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/sid2020-devil" >Sidharth S  Unnithan</a>
-  &nbsp;
-  <a href="https://github.com/deosaju" >Deo Saju</a>
-  &nbsp;
-  <a href="https://github.com/Aneenaanu321" >Amal Shibu</a>
-  &nbsp;
-  <a href="https://github.com/23maria" >Maria Rose Thayil</a>
-</div>
