@@ -125,13 +125,11 @@ localhost:3000
 
 
 <div align="center">
-  <a href="https://github.com/sidharthpunathil" >Sidharth Punathil</a>
+  <a href="https://github.com/sid2020-devil" >Sidharth S  Unnithan</a>
   &nbsp;
-  <a href="https://github.com/rajatmathew" >Rajat Mathew</a>
+  <a href="https://github.com/deosaju" >Deo Saju</a>
   &nbsp;
-  <a href="https://github.com/theamalshibu" >Amal Shibu</a>
+  <a href="https://github.com/Aneenaanu321" >Amal Shibu</a>
   &nbsp;
-  <a href="https://github.com/sid2020-devil" >Sidharth Unnithan</a>
-  &nbsp;
-  <a href="https://github.com/Deosaju" >Deo Saju</a>
+  <a href="https://github.com/23maria" >Maria Rose Thayil</a>
 </div>
