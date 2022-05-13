@@ -1,8 +1,8 @@
-#IDEA
+# IDEA
 
 We are creating an online education platform for better use as students and teachers are/were facing a lot of trouble while attending online classes.
 
-##PRODUCT  NAME - UNICORNTEACH
+## PRODUCT  NAME - UNICORNTEACH
 
 Saves data consumption and data usage. 
 
